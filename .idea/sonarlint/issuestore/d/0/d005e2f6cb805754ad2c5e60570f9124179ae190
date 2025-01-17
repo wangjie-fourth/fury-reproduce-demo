@@ -1,0 +1,8 @@
+
+„
+java:S1854"<Remove this useless assignment to local variable "entityV2".(•Ÿ ­ÿÿÿÿÿ8›àôŸÇ2J$07df1bc3-260a-4d13-ab1b-b13434e72768
+u
+java:S1481"-Remove this unused "entityV2" local variable.(•Ÿ ­ÿÿÿÿÿ8œàôŸÇ2J$92be7e65-e8df-4c22-9061-a38cbd6fdda4
+m	java:S106"+Replace this use of System.out by a logger.(ï•Í8œàôŸÇ2J$80d92405-1fbf-4fdc-9da4-e4eef3effb3f
+m	java:S106)"+Replace this use of System.out by a logger.(ŠÎŞ¹8Í÷øŸÇ2J$00ae85df-433d-4643-a7dc-e0c69005d811
+r	java:S106*"+Replace this use of System.out by a logger.(´²³ëøÿÿÿÿ8Í÷øŸÇ2J$2e830842-770e-4bfa-ace8-d2ef9f381645
